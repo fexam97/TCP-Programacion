@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619533185 source:c:\users\sombr\desktop\progra\100 tcp - sabados\clase-1\main.cpp
+	<iostream>
+	"fecha.h"
+
+1619533515 c:\users\sombr\desktop\progra\100 tcp - sabados\clase-1\fecha.h
+	<iostream>
+
+1619533536 source:c:\users\sombr\desktop\progra\100 tcp - sabados\clase-1\fecha.cpp
+	"fecha.h"
+
