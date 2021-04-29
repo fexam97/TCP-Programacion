@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1619662184 source:c:\users\sombr\desktop\progra\100 tcp - sabados\tcp - clase 3\fecha.cpp
+	"Fecha.h"
+	"FechaException.h"
+
+1619662175 c:\users\sombr\desktop\progra\100 tcp - sabados\tcp - clase 3\fecha.h
+	<time.h>
+
+1619662174 source:c:\users\sombr\desktop\progra\100 tcp - sabados\tcp - clase 3\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"FechaException.h"
+
+1619654286 source:c:\users\sombr\desktop\progra\100 tcp - sabados\tcp - clase 3\fechaexception.cpp
+	"FechaException.h"
+
+1619651136 c:\users\sombr\desktop\progra\100 tcp - sabados\tcp - clase 3\fechaexception.h
+	<string>
+
